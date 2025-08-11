@@ -21,5 +21,5 @@ It uses a clean Express backend with EJS templates and serves static CSS from th
 - **CSS** — Styling  
 
 ---
-Made with ❤️ by Deekshitha M
+Made with ❤️ by Deekshitha M.
 Feel free to fork, contribute, or drop a ⭐ if you liked it!
